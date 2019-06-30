@@ -21,6 +21,10 @@ We uses a number of libraries to work properly:
 * Python 3
 * numpy
 
+### Test instructions
+
+Run main.py to run the lane detection code and make the car drive inside the lanes.
+Run cameraStream.py if you want to watch live stream from the camera while car is driving inside lanes you can see the stream at http://<Your_Pi_IP_Address>:8000.
 
 **Test & presentation links**
 
