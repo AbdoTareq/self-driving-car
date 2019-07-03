@@ -11,7 +11,7 @@ lane borders and take the decision.
   - Ultrasonic sensor
   - Batteries for mottors.
   - Powerpank for raspberry.
-  - L298 motor driver.
+  - L298 dual motor driver.
 
 ### Installed on raspberry
 
